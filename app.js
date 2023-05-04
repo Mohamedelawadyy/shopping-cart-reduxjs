@@ -1,5 +1,3 @@
-const root = document.querySelector(".root");
-
 const initialState = {
   products: [],
   cart: [],
